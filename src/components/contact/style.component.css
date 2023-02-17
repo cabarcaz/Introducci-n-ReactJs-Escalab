@@ -1,0 +1,29 @@
+
+
+.state-button {
+  width: 100%;
+  border: none;
+  padding: 5px;
+  border-radius: 3px;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.remove-button {
+  width: 100%;
+  border: none;
+  background-color: tomato;
+  padding: 5px;
+  border-radius: 3px;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.remove-button:hover {
+  opacity: 0.8;
+}
+.state-button:hover {
+  opacity: 0.8;
+}
